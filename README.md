@@ -1,4 +1,4 @@
-### hello and.. idk uhhhhh do stuff here i guess
+### hello i guess
 
 <!--
 **C7TK/C7TK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
